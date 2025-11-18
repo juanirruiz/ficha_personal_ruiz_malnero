@@ -27,7 +27,7 @@ body {
 } */
 
 /* Visor del casco */
-.icono-casco::after {
+/* .icono-casco::after {
     content: "";
     position: absolute;
     width: 16px;
@@ -36,10 +36,10 @@ body {
     border-radius: 0 0 10px 10px;
     top: 14px;
     left: 8px;
-}
+} */
 
 /* Línea roja característica */
-.icono-casco::before {
+/* .icono-casco::before {
     content: "";
     position: absolute;
     width: 6px;
@@ -48,7 +48,7 @@ body {
     left: 50%;
     transform: translateX(-50%);
     border-radius: 4px;
-}
+} */
 
 /* TARJETA PRINCIPAL */
 .tarjeta {
