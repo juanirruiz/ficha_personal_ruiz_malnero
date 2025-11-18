@@ -140,6 +140,10 @@ body {
     font-size: 0.85rem;
 }
 
+.href{
+    color: #9a7df5;
+}
+
 /* FOOTER */
 footer {
     text-align: center;
