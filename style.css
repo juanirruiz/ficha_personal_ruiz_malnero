@@ -15,7 +15,7 @@ body {
     align-items: center;
 }
 
-.icono-casco {
+/* .icono-casco {
     width: 32px;
     height: 32px;
     background: white;
@@ -24,7 +24,7 @@ body {
     border: 2px solid #d94848;
     cursor: default;
     margin-right: 10px;
-}
+} */
 
 /* Visor del casco */
 .icono-casco::after {
